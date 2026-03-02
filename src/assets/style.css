@@ -1,0 +1,11 @@
+@import "./base.css";
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Arial";
+  font-size: 1rem;
+  line-height: 1rem;
+}
